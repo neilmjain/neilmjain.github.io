@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-image:url(city.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+ol {
+    list-style-position: inside;
+}
+body {
+    color: white;
+}
+.card-body{
+    color: black;
+}
+.card-img-top{
+    margin: auto;
+    width: 180;
+    text-align: center;
+}
+.card{
+    width: 15rem;
+}
